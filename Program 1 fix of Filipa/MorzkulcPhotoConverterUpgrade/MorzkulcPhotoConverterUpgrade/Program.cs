@@ -9,6 +9,11 @@ using System.IO;
 //
 //
 // 
+//test again as.... well, names.
+//
+//
+//
+//
 
 namespace MorzkulcPhotoConverterUpgrade
 {
