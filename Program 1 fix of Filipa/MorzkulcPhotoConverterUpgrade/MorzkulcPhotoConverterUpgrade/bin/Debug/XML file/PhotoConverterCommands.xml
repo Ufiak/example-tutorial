@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<image>
+
+// How many images do you want to modify? (single/multiple)
+<input>multiple</input>
+
+//Provide source folder, eg: "e:\programowanie"
+<sourceOfFolder>e:\programowanie</sourceOfFolder>
+
+//Provide source folder, eg: "plakat.png"
+<sourceOfImage>plakat.png</sourceOfImage>
+
+//Below you will be asked to provide Width and Height. If you provide only one value, aspect ratio of image will be of original image. For the other value width/height write 0
+//Provide new width 
+<widthCheck>800</widthCheck>
+
+//Provide new height
+<heightCheck>0</heightCheck>
+
+//Provide the desired format of new image
+<format>jpg</format>
+
+//Provide  destination folder
+<destinationFolder>e:\programowanie\FolderTestzConfigXML</destinationFolder>
+
+//Provide  a name for converted Image
+<destinationFile>plakatNowyXML</destinationFile>
+</image>

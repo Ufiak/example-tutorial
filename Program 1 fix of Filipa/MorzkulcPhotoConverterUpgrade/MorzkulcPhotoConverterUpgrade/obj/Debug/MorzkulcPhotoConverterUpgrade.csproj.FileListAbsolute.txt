@@ -1,0 +1,19 @@
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe.config
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.pdb
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.csprojResolveAssemblyReference.cache
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.exe
+c:\users\ufiak\documents\visual studio 2017\Projects\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.pdb
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe.config
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.pdb
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.csprojResolveAssemblyReference.cache
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.exe
+C:\Users\Filip-\Downloads\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.pdb
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe.config
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.exe
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\bin\Debug\MorzkulcPhotoConverterUpgrade.pdb
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.csprojResolveAssemblyReference.cache
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.exe
+C:\Users\Ufiak\Desktop\Programy Morzkulc\Program 1 fix of Filipa\MorzkulcPhotoConverterUpgrade\MorzkulcPhotoConverterUpgrade\obj\Debug\MorzkulcPhotoConverterUpgrade.pdb
