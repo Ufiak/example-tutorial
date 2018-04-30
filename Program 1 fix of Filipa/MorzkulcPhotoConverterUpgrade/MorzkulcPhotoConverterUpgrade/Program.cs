@@ -1,6 +1,14 @@
 ﻿using System;
 using System.IO; 
 
+// test comment to see how thigs will roll.
+//
+//
+//
+// ... yeah...
+//
+//
+// 
 
 namespace MorzkulcPhotoConverterUpgrade
 {
